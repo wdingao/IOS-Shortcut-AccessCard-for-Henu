@@ -13,7 +13,7 @@
 
 # 使用说明
 
-1. 第一步：获取快捷指令。地址：https://www.icloud.com/shortcuts/9ad424cc9f82446daa56bc042cb65bd0
+1. 第一步：获取快捷指令。IOS浏览器打开：https://www.icloud.com/shortcuts/9ad424cc9f82446daa56bc042cb65bd0
 
    编辑快捷令，请记好下图中的两个文本框：
 
